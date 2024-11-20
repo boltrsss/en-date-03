@@ -28,20 +28,20 @@ body {
 
 .topnav a {
   float: left;
-  color: #ff4f89;
+  color: #f29696;
   text-align: center;
-  padding: 10px 0px;
+  padding: 14px 16px;
   text-decoration: none;
   font-size: 2rem;
 }
 
 .logo {
-    max-height: 199px;
-    z-index: 57;
+    max-height: 284px;
+    z-index: 81;
 }
 
 .flashy {
-	background: #ff4f89;
+	background: #f29696;
     color: #fff;
 	width: 100%;
     min-height: 20px;
@@ -66,7 +66,7 @@ body {
     /*height: 40px;*/
     /*line-height: 40px;*/
     border: 1px solid #1a4e01;
-    background: #ff4f89;
+    background: #d87070;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4);
     color: #fff;
     font-family: 'OpenSansB', Arial, sans-serif;
@@ -85,7 +85,7 @@ body {
 }
 
 .step .ok:hover {
-    background: #e56690
+    background: #f29696
 }
 
 .step .ok:after {
@@ -261,7 +261,4 @@ body {
     .girl {
         width: 45%;
     }
-}
-.girl {
-    max-width: 240px
 }
